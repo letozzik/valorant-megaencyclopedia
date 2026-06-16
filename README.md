@@ -41,7 +41,9 @@ README.md
   
 # Website prototype for personal use and to describe the project as is required by Riot Games
 currently unavailable, keep an eye out on the color change of this url: letozzik.net
+
 if white: domain unavailable
+
 if blue: domain registered and the site's up and running
 
 # means for donations so i can keep myself afloat
