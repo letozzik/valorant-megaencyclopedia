@@ -47,7 +47,9 @@ if blue: domain registered and the site's up and running
 # means for donations so i can keep myself afloat
 
 [buy me a Monster](https://ko-fi.com/K7R721I5LL)
+
 [support me on Patreon](https://patreon.com/letozzik?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+
 note: all donations are willingly made, the final product will be available puiblicly to all, any paywalled content related to the project that is made, if not scrapped, will be added to the final product.
 
 # the VALORANT Megaecnyclopedia was created under Riot Games' ["Legal Jibber Jabber"](https://www.riotgames.com/en/legal) policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.
