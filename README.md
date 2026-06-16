@@ -26,15 +26,13 @@ what currently has been finished is:
 
 # Project structure
 mobile app:
-
 androidstudio/
 │
-├── mainActivity.java # the main menu with a list of buttons
-├── agents.java #the list of available agents, which get manually updated every time a new agent is added (tedious, but it's the cost of making it offline)
-├── [AGENTNAME].java  # model viewer class, with arrows letting the user cycle between images of the agent model for the given agent
-├── killbanners.java # for the list of skins who's killbanners to show
-├── [SKINNAME]Killbanner.java # for showing a given skin's killbanner from 1 kill to ace or 6 kills, whichever is the maximum
-└── README.md
+mainActivity.java # the main menu with a list of buttons agents.java #the list of available agents, which get manually updated every time a new agent is added (tedious, but it's the cost of making it offline)
+[AGENTNAME].java  # model viewer class, with arrows letting the user cycle between images of the agent model for the given agent
+killbanners.java # for the list of skins who's killbanners to show
+[SKINNAME]Killbanner.java # for showing a given skin's killbanner from 1 kill to ace or 6 kills, whichever is the maximum
+README.md
 + more (shown in Figma prototype above)
   
 # Website prototype for personal use and to describe the project as is required by Riot Games
