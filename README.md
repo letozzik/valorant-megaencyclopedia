@@ -17,4 +17,4 @@ it is planned to be a mobile and desktop app, currently has been finished is:
 # means for donations to be able to properly fund and publicize the project
 
 [buy me a Monster](https://ko-fi.com/K7R721I5LL)
-[support me on Patreon](patreon.com/letozzik)
+[support me on Patreon]([https://patreon.com/letozzik?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
