@@ -4,5 +4,4 @@ a program version of the already existing [Valorant wiki](https://valorant.fando
 
 this is currently a work in progerss and a proof of concept, owned, developed and maintained by me, for issues regarding the application, main code, or if you want to contribute in any way, feel free to send me an email at letozzik@gmail.com
 
-and please, do buy me a Monster:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K7R721I5LL)
+[buy me a Monster](https://ko-fi.com/K7R721I5LL)
