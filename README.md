@@ -5,8 +5,10 @@ a program version of the already existing [Valorant wiki](https://valorant.fando
 this is currently a work in progerss and a proof of concept, owned, developed and maintained by me, for issues regarding the application, main code, or if you want to contribute in any way, feel free to send me an email at letozzik@gmail.com, but remember, i am 1 guy, any delays in development, uploads or replies are expected. 
 
 note: i am actively working on getting the green light from Riot Games themselves and the Kingdom Archives devteam, the statuses are below:
+```
 Riot: APPLICATION IN PROCESS, WEBSITE NEEDED (see below)
 K.A: APPROVAL REQUEST NOT SUBMITTED
+```
 
 softwares at use currently are:
 
@@ -26,13 +28,15 @@ what currently has been finished is:
 
 # Project structure
 mobile app:
-`androidstudio/
+```
+androidstudio/
 │
 mainActivity.java # the main menu with a list of buttons agents.java #the list of available agents, which get manually updated every time a new agent is added (tedious, but it's the cost of making it offline)
 [AGENTNAME].java  # model viewer class, with arrows letting the user cycle between images of the agent model for the given agent
 killbanners.java # for the list of skins who's killbanners to show
 [SKINNAME]Killbanner.java # for showing a given skin's killbanner from 1 kill to ace or 6 kills, whichever is the maximum
-README.md`
+README.md
+```
 + more (shown in Figma prototype above)
   
 # Website prototype for personal use and to describe the project as is required by Riot Games
