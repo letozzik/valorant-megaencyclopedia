@@ -37,7 +37,7 @@ killbanners.java # for the list of skins who's killbanners to show
 [SKINNAME]Killbanner.java # for showing a given skin's killbanner from 1 kill to ace or 6 kills, whichever is the maximum
 README.md
 ```
-+ more (shown in Figma prototype above)
++ +more (shown in Figma prototype above)
   
 # Website prototype for personal use and to describe the project as is required by Riot Games
 currently unavailable, keep an eye out on the color change of this url: letozzik.net
